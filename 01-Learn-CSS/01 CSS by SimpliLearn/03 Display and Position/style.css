@@ -1,0 +1,33 @@
+/* display
+
+default:block or inline;
+
+:inline-block
+
+:inline can't change height and width of the element
+
+*/
+
+.display {
+    
+    font-size: 30px;
+}
+
+h2{
+    display: inline;
+}
+
+/*CSS Positioning 
+
+default:positon = static 
+
+position:relative; -same as static {
+    but it help to chage top,left of the element}
+
+position:absolute; -- it removes the element from the doccument flow{
+                    helps to positon an element in a specific positon }
+
+position:relative;-?
+
+position:fixed; fixed on screen while scrool
+*/
